@@ -1,13 +1,13 @@
-## Customer Segmentation for SBI Life Insurance
-# Overview
+# Customer Segmentation for SBI Life Insurance
+## Overview
 
 This project focuses on customer segmentation using clustering models to provide targeted product and service recommendations for SBI Life Insurance. The objective is to analyze the usage behavior of approximately 9000 active credit card holders over the last 6 months. The segmentation will assist in tailoring financial offerings such as saving plans, loans, wealth management, etc., based on distinct customer groups.
 
-# Objective
+## Objective
 
 Develop a customer segmentation model that identifies target customer groups for SBI Life Insurance. Utilize clustering algorithms to categorize customers based on their credit card usage behavior, and provide personalized recommendations for financial products and services.
 
-# Data Description
+## Data Description
 
 The dataset comprises customer-level information with 18 behavioral variables. The following attributes are included in the dataset:
 
